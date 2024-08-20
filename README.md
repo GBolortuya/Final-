@@ -16,6 +16,8 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
 
 
 (2) Find child nodes given an index
+![image](https://github.com/user-attachments/assets/ed0f1f33-46d1-4df4-a8a2-92b60368570a)
+
 
 # 2.Maximum heap implementation
   
