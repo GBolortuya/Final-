@@ -32,6 +32,9 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
     
  (3) The show function returns the current array
 
+ ![image](https://github.com/user-attachments/assets/b5ed8cbb-84a6-4e7a-8e12-c8cda592e783)
+
+
 # 2. Add elements 
 
 (1) Add the node to the last position of the tree. The corresponding operation is to dispose the array count to the new value and count +1
