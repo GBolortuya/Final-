@@ -20,6 +20,11 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
 
 2.Maximum heap implementation
   
-   1. Initialization
+ 1. Initialization
       
  (1) maxSize is the initialization array length of the maximum heap
+
+ (2) count is the number of elements in the current maximum heap
+    
+ (3) The show function returns the current array
+  
