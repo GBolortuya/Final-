@@ -19,7 +19,7 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
 (2) Find child nodes given an index
 
 
- Maximum heap implementation
+ 2.Maximum heap implementation
   
    1. Initialization
    
