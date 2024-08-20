@@ -22,16 +22,15 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
  2.Maximum heap implementation
   
    1. Initialization
-   
+      
     (1) maxSize is the initialization array length of the maximum heap
     
     (2) count is the number of elements in the current maximum heap
-   
+    
     (3) The show function returns the current array
   
   
    2. Add elements
    
     (1) Add the node to the last position of the tree. The corresponding operation is to dispose the array count to the new value and count +1
-   
     (2) shift_up first finds the parent node of the current node. If it is smaller than the parent node, it exits directly. If it is larger than the parent node, it swaps positions with the parent node and recursively calls shift_up to continue searching upward until it is smaller than the parent node, then exits the loop.[9, 6, 5, 3, 1] => [9, 6, 7, 3, 1, 5]
