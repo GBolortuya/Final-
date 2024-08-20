@@ -1,0 +1,23 @@
+class MaxHeap:
+    def_init_(self, maxSize=None):
+        self.maxSize = maxSize
+        self.list = [None] * maxSize
+        seld.count = 0
+
+        #Elements in the current heap
+        def length (self):
+            #Find the length of the array 
+            return self.count
+            
+            #Display all elements in the current heap, out of order 
+            def show(self):
+                if self.count <=0:
+                    print ('null')
+                    else : 
+                        print (self.list[: self.count])
+
+                        #Determine whether the heap 
+                        is empty def isEmpty(self):
+                        return True 
+                        else :
+                            return False 
