@@ -1,7 +1,6 @@
-# Final-
-Python - Max Heap Implementation and Application
+# Python - Max Heap Implementation and Application
 
-I. Introduction
+#I. Introduction
 
 As mentioned above  , the PriorityQueue  has some problems. The underlying principle of priority queue sorting is based on Max Heap. Let's take a look at the basic implementation and usage of Max Heap . First, let's clarify the concepts related to Max Heap and its implementation:
 
@@ -18,9 +17,9 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
 
 (2) Find child nodes given an index
 
-2.Maximum heap implementation
+# 2.Maximum heap implementation
   
-1. Initialization
+# 1. Initialization
       
  (1) maxSize is the initialization array length of the maximum heap
 
@@ -28,7 +27,7 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
     
  (3) The show function returns the current array
 
-2. Add elements 
+# 2. Add elements 
 
 (1) Add the node to the last position of the tree. The corresponding operation is to dispose the array count to the new value and count +1
 
