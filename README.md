@@ -33,4 +33,5 @@ B. Complete binary tree, a binary tree with a depth of k and a number of nodes o
 
 (2) shift_up first finds the parent node of the current node. If it is smaller than the parent node, it exits directly. If it is larger than the parent node, it swaps positions with the parent node and recursively calls shift_up to continue searching upward until it is smaller than the parent node, then exits the loop.[9, 6, 5, 3, 1] => [9, 6, 7, 3, 1, 5]
 
-https://github.com/GBolortuya/Final-/blob/main/5.png
+![image](https://github.com/user-attachments/assets/4cbe9a5f-a3ba-4933-a617-7cc84f744544)
+
