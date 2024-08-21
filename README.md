@@ -6,7 +6,7 @@ As mentioned above  , the PriorityQueue  has some problems. The underlying pri
 
 A. A maximum heap, also known as a large root heap (large top heap), means that the value of the root node (also called the top of the heap) is the largest value among all the nodes in the heap.
 
-(1) The value of each root node is greater than that of its leaf nodes
+(1) The value of each root node $\color{red}{\textsf{is greater}}$  than that of its leaf nodes
 
 (2) A maximum heap is a complete binary tree
 
