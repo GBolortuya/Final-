@@ -2,13 +2,13 @@
 
 # I. Introduction
 
-As mentioned above  , the PriorityQueue  has some problems. The underlying principle of priority queue sorting is based on Max Heap. Let's take a look at the basic implementation and usage of Max Heap . First, let's clarify the concepts related to Max Heap and its implementation:
+As mentioned above  , the $\color{blue}{\textsf{PriorityQueue}}$  has some problems. The underlying principle of priority queue sorting is based on Max Heap. Let's take a look at the basic implementation and usage of Max Heap . First, let's clarify the concepts related to Max Heap and its implementation:
 
 A. A maximum heap, also known as a large root heap (large top heap), means that the value of the root node (also called the top of the heap) is the largest value among all the nodes in the heap.
 
 (1) The value of each root node $\color{red}{\textsf{is greater}}$  than that of its leaf nodes
 
-(2) A maximum heap is a complete binary tree
+(2) A maximum heap is a $\color{red}{\textsf{complete binary tree }}$ 
 
 B. Complete binary tree, a binary tree with a depth of k and a number of nodes of 2^k - 1 is a complete binary tree
 
