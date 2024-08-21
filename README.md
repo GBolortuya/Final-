@@ -2,7 +2,7 @@
 
 # I. Introduction
 
-As mentioned above  , the $\color{blue}{\textsf{PriorityQueue}}$  has some problems. The underlying principle of priority queue sorting is based on Max Heap. Let's take a look at the basic implementation and usage of Max Heap . First, let's clarify the concepts related to Max Heap and its implementation:
+As mentioned above  , the $\color{light blue}{\textsf{PriorityQueue}}$  has some problems. The underlying principle of priority queue sorting is based on Max Heap. Let's take a look at the basic implementation and usage of Max Heap . First, let's clarify the concepts related to Max Heap and its implementation:
 
 A. A maximum heap, also known as a large root heap (large top heap), means that the value of the root node (also called the top of the heap) is the largest value among all the nodes in the heap.
 
